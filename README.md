@@ -6,6 +6,10 @@ This plugin inserts an ad code for each specified number of paragraphs. For exam
 
 (Unlike Google Adsense's automatic ads) no ad code is inserted into blockquote or list items!
 
+## ⚠️Project Status⚠️
+
+This repository is no longer maintained, and the package is deprecated. Please use [rehype-auto-ads](https://github.com/robot-Inventor/rehype-auto-ads) instead.
+
 ## Install
 
 ```bash
